@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestDeepLink</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="facebook_app_id">178824389890342</string>
+    <string name="app_id">fix.the.lemon</string>
+    <string name="snapchat_id">72873045-ba74-429d-8101-789d74592591</string>
+    <string name="api_key">4b86c532-e237-4f7d-b226-3cc38dbf4674</string>
+</resources>
