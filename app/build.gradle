@@ -9,7 +9,7 @@ android {
         targetCompatibility 1.8
     }
     defaultConfig {
-        applicationId "com.test.testdeeplink"
+        applicationId "com.example.testdeeplink"
         minSdkVersion 21
         targetSdkVersion 29
         versionCode 1
